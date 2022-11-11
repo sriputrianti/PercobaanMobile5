@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "633861207269",
+    "project_id": "percobaanmobile5",
+    "storage_bucket": "percobaanmobile5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633861207269:android:748531c013ce8ce123100c",
+        "android_client_info": {
+          "package_name": "com.sriputriantimateka_f55121055.percobaanmobile5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633861207269-m79gmac18bobkj69fk4sdd0qmgpct3h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3jELM2gIGvF18km-79_zYEKKZdJHMds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633861207269-m79gmac18bobkj69fk4sdd0qmgpct3h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633861207269:android:9173e75146df09bf23100c",
+        "android_client_info": {
+          "package_name": "com.sriputriantimateka_f55121055.percobaanmobile5f55121055"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633861207269-m79gmac18bobkj69fk4sdd0qmgpct3h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3jELM2gIGvF18km-79_zYEKKZdJHMds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633861207269-m79gmac18bobkj69fk4sdd0qmgpct3h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
